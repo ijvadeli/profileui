@@ -17,7 +17,7 @@ function App() {
                   <img src="https://img.daisyui.com/images/profile/demo/gordon@192.webp" />
                 </div>
             </div>
-              <h2 className="card-title justify-center font-[Poppins]">Akshay Lautan</h2>
+              <h2 className="card-title justify-center font-[Poppins]">UNDEFINED</h2>
               <p className="flex justify-center font-[Poppins] font-light">
                 Front End Developer | React, TailwindCSS, NextJS
               </p>
